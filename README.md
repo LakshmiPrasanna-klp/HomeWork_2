@@ -4,6 +4,13 @@ This repository contains solutions to Homework 2 for **CS5710 Machine Learning**
 It includes both **calculation-based answers (Part A)** and **Python programming tasks (Part B)**.
 
 ---
+## 👨‍🎓 Student Info
+- Name: Lakshmi Prasanna Komirisetty
+- Student ID : 700772585
+- Course: CS5710 Machine Learning
+- Semester: Fall 2025
+
+---
 
 ## Contents
 - `Homework_2_Solutions.docx` → Full written solutions to Q1–Q6.
@@ -73,11 +80,7 @@ pip install scikit-learn matplotlib numpy
 
 ---
 
-## 👨‍🎓 Student Info
-- Name: Lakshmi Prasanna Komirisetty
-- Course: CS5710 Machine Learning
-- Semester: Fall 2025
 
----
-# HomeWork_2
+
+
 
