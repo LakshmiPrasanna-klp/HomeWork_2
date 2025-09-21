@@ -4,7 +4,7 @@ This repository contains solutions to Homework 2 for **CS5710 Machine Learning**
 It includes both **calculation-based answers (Part A)** and **Python programming tasks (Part B)**.
 
 ---
-## 👨‍🎓 Student Info
+##  Student Info
 - Name: Lakshmi Prasanna Komirisetty
 - Student ID : 700772585
 - Course: CS5710 Machine Learning
@@ -21,7 +21,7 @@ It includes both **calculation-based answers (Part A)** and **Python programming
 
 ---
 
-## ⚡ Part A: Calculation Questions (Q1–Q6)
+##  Part A: Calculation Questions (Q1–Q6)
 Solved step-by-step in the Word file. Covers:
 - Decision stump prediction
 - Training error as splitting criterion
@@ -32,7 +32,7 @@ Solved step-by-step in the Word file. Covers:
 
 ---
 
-## 🐍 Part B: Programming Questions (Q7–Q9)
+##  Part B: Programming Questions (Q7–Q9)
 
 ### Q7. Decision Tree (sklearn)
 Trains Decision Trees with `max_depth = 1, 2, 3` on the **Iris dataset**.  
@@ -70,7 +70,7 @@ python Performance_Evaluation.py
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 Before running the scripts, install required packages:
 
